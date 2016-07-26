@@ -1,11 +1,22 @@
 body {
   background-color: #C6E2FF;
+  font-family: 'Economica', sans-serif;
 }
 
 h1 {
   text-align: center;
   color: #4C7093;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 90;
+  background-image: url("http://static4.depositphotos.com/1003753/312/v/950/depositphotos_3124248-Tropical-banner.jpg");
+  border: 500px;
 }
+
+h1:hover {
+  display:block;
+}
+
+
 
 a:hover {
   color:green;
@@ -35,7 +46,7 @@ a:visited {
 }
 h2 {
   text-align: center;
-  color: orange;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 
 img {
@@ -46,4 +57,8 @@ img {
   border-style: solid;
   border-color: orange;
 
+}
+
+footer {
+  margin: 30px;
 }
