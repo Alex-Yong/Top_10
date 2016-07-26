@@ -23,10 +23,26 @@ a:visited {
 
 #table {
   text-align: center;
-  border-color: orange;
   border-style: solid;
+  border-collapse: collapse;
+
+}
+
+.city_title{
+  margin: 10;
+  font-weight: bold;
+  font-size: 20;
+}
+h2 {
+  text-align: center;
+}
+
+img {
+  margin: 12;
 }
 
 .borderstyle {
   border-style: solid;
+  border-color: orange;
+
 }
