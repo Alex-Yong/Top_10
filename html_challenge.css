@@ -1,0 +1,32 @@
+body {
+  background-color: #C6E2FF;
+}
+
+h1 {
+  text-align: center;
+  color: #4C7093;
+}
+
+a:hover {
+  color:green;
+  font-size: 30px;
+}
+
+a:visited {
+  color:red;
+}
+
+#topten {
+  list-style-position: inside;
+  text-align: center;
+}
+
+#table {
+  text-align: center;
+  border-color: orange;
+  border-style: solid;
+}
+
+.borderstyle {
+  border-style: solid;
+}
